@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594851197 source:c:\users\pichau\documents\doc's caio\mapa\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
